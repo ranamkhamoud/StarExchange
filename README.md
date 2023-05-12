@@ -28,3 +28,24 @@ This project was inspired and built upon various sources, including tutorials, e
 Acknowledgements
 
 We'd like to express our gratitude to the authors of the sources mentioned above. Their work has provided valuable guidance and inspiration for this project.
+
+Running My Jetpack Compose App
+
+To run the My Jetpack Compose App, follow these steps:
+
+Clone the repository
+ Open your terminal/command prompt and run the following command:
+'''
+git clone https://github.com/your_username/my-jetpack-compose-app.git
+'''
+Open the project in Android Studio
+
+Start Android Studio, click Open an existing Android Studio project and select the project. Gradle will build the project.
+
+Run the app
+
+You can run the app on an emulator or a real device connected to your machine.
+
+    To run on an emulator: Ensure you have an emulator set up. You can set one up by going to Tools > AVD Manager > Create Virtual Device. Once your emulator is set up, click on the green play button or Run > Run 'app'.
+
+    To run on a real device: Connect your Android device to your computer using a USB cable. Once your device is connected, click on the green play button or Run > Run 'app'.
